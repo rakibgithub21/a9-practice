@@ -1,0 +1,170 @@
+[
+  {
+    "estate_title": "Luxury Beachfront Resort Villa",
+    "id": "001",
+    "segment_name": "Resort",
+    "description": "Experience luxury and tranquility in this beachfront villa. With breathtaking ocean views and top-notch amenities, this resort villa offers the ultimate vacation experience.",
+    "price": "$1000 per night",
+    "status": "rent",
+    "area": "5000 sq ft",
+    "location": "Maldives",
+    "facilities": ["Private beach access", "Infinity pool", "Spa", "Gourmet restaurant"],
+    "image": "https://i.ibb.co/d2wpPWv/luxury-resort.jpg",
+    "image_alt": "Beachfront Resort Villa in Maldives",
+    "rating": 4.77,
+    "reviews": [
+      {"user": "John Doe", "rating": 5, "comment": "Absolutely stunning! Best vacation ever!"},
+      {"user": "Jane Smith", "rating": 4.5, "comment": "Incredible service and amenities. Highly recommend."},
+      {"user": "David Johnson", "rating": 4.8, "comment": "Paradise on Earth. Can't wait to return!"}
+    ],
+    "contact_information": {
+      "phone": "+123456789",
+      "email": "info@luxuryresort.com"
+    },
+    "nearby_attractions": ["Coral Reef Diving", "Island Hopping Tours"],
+    "check_in_time": "15:00",
+    "check_out_time": "12:00",
+    "languages_spoken": ["English", "Maldivian"],
+    "payment_methods": ["Credit Card", "Cash"]
+  },
+  {
+    "estate_title": "Bear Mountain Motel",
+    "id": "002",
+    "segment_name": "Motel",
+    "description": "Escape to the mountains and cozy up in this charming motel. Surrounded by pristine nature, it's the perfect retreat for outdoor enthusiasts and nature lovers.",
+    "price": "$200 per night",
+    "status": "rent",
+    "area": "1500 sq ft",
+    "location": "Aspen, Colorado",
+    "facilities": ["Free parking", "Wi-Fi", "24-hour reception", "Coffee in lobby", "Daily housekeeping"],
+    "image": "https://i.ibb.co/WsHYVR0/bear-mountain-motel.jpg",
+    "image_alt": "Bear Mountain Motel in Aspen, Colorado",
+    "rating": 4.1,
+    "reviews": [
+      {"user": "Emily Brown", "rating": 4, "comment": "Nice location and cozy rooms. Enjoyed my stay."},
+      {"user": "Michael Wilson", "rating": 4.5, "comment": "Friendly staff and great value for money."},
+      {"user": "Sophia Garcia", "rating": 3.8, "comment": "Rooms were a bit small but overall a pleasant stay."}
+    ],
+    "contact_information": {
+      "phone": "+987654321",
+      "email": "info@bearmotel.com"
+    },
+    "nearby_attractions": ["Hiking Trails", "Ski Resorts"],
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "languages_spoken": ["English", "Spanish"],
+    "payment_methods": ["Credit Card", "PayPal"]
+  },
+  {
+    "estate_title": "Downtown Boutique Hotel",
+    "id": "003",
+    "segment_name": "Hotel",
+    "description": "Discover urban elegance in the heart of the city at our boutique hotel. Indulge in stylish accommodations, personalized service, and convenient access to top attractions.",
+    "price": "$300 per night",
+    "status": "rent",
+    "area": "2000 sq ft",
+    "location": "New York City, USA",
+    "facilities": ["Rooftop bar", "Fitness center", "Conference rooms", "Valet parking"],
+    "image": "https://i.ibb.co/RpHz7JM/downtwon-hotel.jpg",
+    "image_alt": "Downtown Boutique Hotel in New York City, USA",
+    "rating": 4.5,
+    "reviews": [
+      {"user": "Alice Johnson", "rating": 4.2, "comment": "Great location and friendly staff."},
+      {"user": "Robert Williams", "rating": 4.8, "comment": "Amazing views from the rooftop bar!"},
+      {"user": "Emma Jones", "rating": 4.5, "comment": "Comfortable rooms and excellent service."}
+    ],
+    "contact_information": {
+      "phone": "+123456789",
+      "email": "info@downtownhotel.com"
+    },
+    "nearby_attractions": ["Times Square", "Central Park"],
+    "check_in_time": "14:00",
+    "check_out_time": "12:00",
+    "languages_spoken": ["English", "Spanish"],
+    "payment_methods": ["Credit Card", "Cash", "Apple Pay"]
+  },
+  {
+    "estate_title": "Charming Countryside Guesthouse",
+    "id": "004",
+    "segment_name": "Guesthouse",
+    "description": "Experience rustic charm and hospitality in our countryside guesthouse. Nestled amidst rolling hills and vineyards, it's the perfect retreat for a peaceful getaway.",
+    "price": "$150 per night",
+    "status": "rent",
+    "area": "1800 sq ft",
+    "location": "Tuscany, Italy",
+    "facilities": ["Garden terrace", "Wine tasting tours", "Farm-to-table dining", "Bicycle rentals"],
+    "image": "https://i.ibb.co/34GLwMM/charming-gues-house.jpg",
+    "image_alt": "Charming Countryside Guesthouse in Tuscany, Italy",
+    "rating": 4.7,
+    "reviews": [
+      {"user": "Sophie Brown", "rating": 4.8, "comment": "Beautiful location and delicious food."},
+      {"user": "Lucas Miller", "rating": 4.5, "comment": "Friendly staff and cozy atmosphere."},
+      {"user": "Olivia Davis", "rating": 4.9, "comment": "Absolutely loved the wine tasting tour!"}
+    ],
+    "contact_information": {
+      "phone": "+987654321",
+      "email": "info@countrysideguesthouse.com"
+    },
+    "nearby_attractions": ["Vineyards", "Historic Villages"],
+    "check_in_time": "15:00",
+    "check_out_time": "11:00",
+    "languages_spoken": ["English", "Italian"],
+    "payment_methods": ["Credit Card", "Cash"]
+  },
+  {
+    "estate_title": "Mountain View Lodge",
+    "id": "005",
+    "segment_name": "Lodge",
+    "description": "Experience the beauty of the mountains at our cozy lodge. Surrounded by breathtaking scenery, it's the perfect retreat for nature lovers and adventure seekers.",
+    "price": "$180 per night",
+    "status": "rent",
+    "area": "1600 sq ft",
+    "location": "Banff, Canada",
+    "facilities": ["Mountain view rooms", "Ski storage", "Outdoor fire pit", "BBQ area"],
+    "image": "https://i.ibb.co/3MDWXmF/mountain-lodge.jpg",
+    "image_alt": "Mountain View Lodge in Banff, Canada",
+    "rating": 4.4,
+    "reviews": [
+      {"user": "William Taylor", "rating": 4.2, "comment": "Great lodge with stunning views."},
+      {"user": "Emma Wilson", "rating": 4.6, "comment": "Cozy atmosphere and friendly staff."},
+      {"user": "James Anderson", "rating": 4.3, "comment": "Enjoyed the outdoor fire pit in the evenings."}
+    ],
+    "contact_information": {
+      "phone": "+123456789",
+      "email": "info@mountainlodge.com"
+    },
+    "nearby_attractions": ["National Parks", "Ski Resorts"],
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "languages_spoken": ["English", "French"],
+    "payment_methods": ["Credit Card", "Cash", "Google Pay"]
+  },
+  {
+    "estate_title": "Oceanfront Vacation Rental",
+    "id": "006",
+    "segment_name": "Vacation Rental",
+    "description": "Relax and unwind in this stunning oceanfront vacation rental. With panoramic views of the sea and direct beach access, it's the perfect getaway for beach lovers.",
+    "price": "$350 per night",
+    "status": "rent",
+    "area": "2200 sq ft",
+    "location": "Maui, Hawaii",
+    "facilities": ["Direct beach access", "Oceanfront balcony", "Fully equipped kitchen", "Outdoor grill"],
+    "image": "https://i.ibb.co/5xssqMD/ocean-front-rental.jpg",
+    "image_alt": "Oceanfront Vacation Rental in Maui, Hawaii",
+    "rating": 4.9,
+    "reviews": [
+      {"user": "Michael White", "rating": 4.8, "comment": "Stunning views and excellent amenities."},
+      {"user": "Sophia Thompson", "rating": 5, "comment": "Absolutely perfect vacation rental!"},
+      {"user": "Ethan Martinez", "rating": 4.9, "comment": "Couldn't have asked for a better beach getaway!"}
+    ],
+    "contact_information": {
+      "phone": "+987654321",
+      "email": "info@oceanfrontrental.com"
+    },
+    "nearby_attractions": ["Beaches", "Snorkeling Spots"],
+    "check_in_time": "15:00",
+    "check_out_time": "12:00",
+    "languages_spoken": ["English", "Hawaiian"],
+    "payment_methods": ["Credit Card", "PayPal"]
+  }
+]
